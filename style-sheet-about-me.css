@@ -1,0 +1,18 @@
+	body {
+		text-align: center;
+		background: url(https://guideimg.alibaba.com/images/shop/108/03/23/8/brewster-2623-001091-wallpaper-backgrounds-and-stripes-home-decor-blush_4366478.jpg);
+		background-size: cover;
+		background position: center;
+		color: black;
+		font-family: Corbel;
+	}
+
+	p {
+		font-size: 18px;
+	}
+
+	img {
+		display: block;
+		margin: auto;
+		width: 40%;
+	}
